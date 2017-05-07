@@ -6,7 +6,7 @@ I have download parts of [free-programming-books.md](https://github.com/sancao2/
 
 The list which I download is below:
 
-```shell
+```sh
 -> ls
 Emacs       Linux       Ocaml       Scheme      Unix
 Haskell     Lisp        Python      Standard ML
