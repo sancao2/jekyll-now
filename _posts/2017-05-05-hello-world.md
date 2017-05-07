@@ -4,4 +4,4 @@ title: Hello World!
 permalink: hello-world
 ---
 
-HACK just for fun.
+to hack goods for fun and profit.
