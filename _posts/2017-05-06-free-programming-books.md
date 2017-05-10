@@ -12,8 +12,8 @@ The list which I download is below:
 
 ```shell
 ➜  en ls
-C           Emacs       Java        Lisp        Python      Standard ML
-C++         Haskell     Linux       Ocaml       Scheme      Unix
+C           Emacs       Java        Linux       Ocaml       Scheme      Unix
+C++         Haskell     JavaScript  Lisp        Python      Standard ML
 ```
 
 I just wish it save your time. But it has too many books which are overwhelming and distracting. Read one fully is better than own 1000. And some of them are outdated. So I wana spend some time taking out several best books in some Areas like Python, C++.
