@@ -1,7 +1,7 @@
 ---
 ---
 ![](http://7xi8d6.com1.z0.glb.clouddn.com/2017-02-20-16788512_385322578500460_8844315265740046336_n.jpg)
-## [PEP](https://github.com/python/peps) 20 -- The Zen of Python
+## [PEP 20](https://github.com/python/peps/blob/master/pep-0200.txt) -- The Zen of Python
 ```sh
 ➜  ~ python -m this
 The Zen of Python, by Tim Peters
@@ -27,6 +27,6 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
 ## Which is the best book for learning Pythin for experienced programmers?
-* Read [Effective Python](http://amzn.to/2qwcDIU), [Python Cookbook](http://amzn.to/2qYkRZZ) and [Fluent Python](http://amzn.to/2qYjlHl) in that order. PS. I have download the 3 [here](./2017-05-06-free-programming-books.md)
+* Read [Effective Python](http://amzn.to/2qwcDIU), [Python Cookbook](http://amzn.to/2qYkRZZ) and [Fluent Python](http://amzn.to/2qYjlHl) in order. PS. I have download the 3 [here](../2017-05-06-free-programming-books.md)
 * read the [PEP](https://github.com/python/peps)
 
