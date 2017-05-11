@@ -27,4 +27,6 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
 ## Which is the best book for learning Pythin for experienced programmers?
+* Read [Effective Python](http://amzn.to/2qwcDIU), [Python Cookbook](http://amzn.to/2qYkRZZ) and [Fluent Python](http://amzn.to/2qYjlHl) in that order. PS. I have download the 3 [here](./2017-05-06-free-programming-books.md)
+* read the [PEP](https://github.com/python/peps)
 
