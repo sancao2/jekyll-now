@@ -1,7 +1,7 @@
 ---
 ---
 ![](http://7xi8d6.com1.z0.glb.clouddn.com/2017-02-20-16788512_385322578500460_8844315265740046336_n.jpg)
-## [PEP](https://github.com/python/peps) 20 -- The Zen of Python
+## [PEP 20](https://github.com/python/peps/blob/master/pep-0200.txt) -- The Zen of Python
 ```sh
 ➜  ~ python -m this
 The Zen of Python, by Tim Peters
